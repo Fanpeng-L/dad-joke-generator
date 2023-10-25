@@ -3,3 +3,5 @@
 [Try here: 🔗]()
 
 Preview for the app:
+
+<img src="preview.gif" width="500" alt="preview">
