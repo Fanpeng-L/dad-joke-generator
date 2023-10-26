@@ -1,4 +1,4 @@
-# **_Dad Joke_** fetching app
+# **_Dad Joke_** Generator app
 
 [Try here: 🔗](https://fanpeng-l.github.io/js-dad-joke-app/)
 
